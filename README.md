@@ -1,7 +1,12 @@
 # DL1
 ## Masha Shin
-> Anyhing's posssible if you've got enough nerve
+> Anyhing's posssible if you've got enough nerve 
+
+<p> Другая умная цитата.</p>
+
 
 + Drawing
 + Alternative rock
 + Cats
+
+! [pic]
