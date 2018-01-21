@@ -1,15 +1,17 @@
-# DL1
+# HW1
 ## Masha Shin
+#### 20 y.o
+#### From Tashkent, Uzbekistan
 > Anyhing's posssible if you've got enough nerve 
 
-
 ## HSE student
-### From Tashkent, Uzbekistan
-#### 20 y.o
+#### Foreign Languages and Intercultural Communication
 
-+ Drawing
-+ Alternative rock
-+ Cats
+HOBBIES
+
++ Drawing/ Sketching
++ Fitness
++ Cooking
 
 N . Monday | Tuesday | Wednesday | Thursday | Friday
 
