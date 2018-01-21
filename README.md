@@ -16,7 +16,7 @@
 
 Here are some of my works:
 
-![Alt-текст](C:\Users\ASUS\Desktop "Lily Collins")
+![Alt-текст](photo_2018-01-21_19-24-34 "Lily Collins")
 
 N . Monday | Tuesday | Wednesday | Thursday | Friday
 
