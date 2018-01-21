@@ -23,9 +23,8 @@
 
 ![Alt-текст](https://scontent.fhel3-1.fna.fbcdn.net/v/t1.0-9/17458389_1277326982363840_8063774914609442989_n.jpg?oh=bb1ff77d14c9623d71e4fff279bfce26&oe=5AE72829 "Ed Sheeran")
 
-More artworks here:
 
-Это простая [ссылка](https://www.facebook.com/masha.shin.3/photos_all) в тексте.
+More artworks [here](https://www.facebook.com/masha.shin.3/photos_all) .
 
 * * *
 
