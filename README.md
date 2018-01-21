@@ -2,16 +2,19 @@
 ## Masha Shin
 #### 20 y.o
 #### From Tashkent, Uzbekistan
-> Anyhing's posssible if you've got enough nerve 
+> Anything's posssible if you've got enough nerve 
 
 ## HSE student
 #### Foreign Languages and Intercultural Communication
 
-HOBBIES
+***
 
+## Hobbies
 + Drawing/ Sketching
 + Fitness
 + Cooking
+
+Here are some of my works:
 
 N . Monday | Tuesday | Wednesday | Thursday | Friday
 
