@@ -28,9 +28,9 @@
 | № | Monday    | Tuesday |Wednesday| Thursday | Friday |
 | --|:---------:| -----:| -----:| -----:| -----:|
 | 1 | DL seminar | Video |  | German |  |
-| 2 | -    |   Speech practice | Latin | German | German |
+| 2 |    |   Speech practice | Latin | German | German |
 | 3 | DL lecture    |  Speech practice    |j | Phonetics | |
 | 4 |    |     |Speech practice | Grammar | BritLit Seminar |
-| 5 |    |    NIS| Grammar | BritLit Lecture |
+| 5 |    |    NIS| Grammar |  |  BritLit Lecture |
 
 
