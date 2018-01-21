@@ -10,6 +10,7 @@
 ***
 
 ## Hobbies
+
 + Drawing/ Sketching
 + Fitness
 + Cooking
@@ -22,6 +23,12 @@
 
 ![Alt-текст](https://scontent.fhel3-1.fna.fbcdn.net/v/t1.0-9/17458389_1277326982363840_8063774914609442989_n.jpg?oh=bb1ff77d14c9623d71e4fff279bfce26&oe=5AE72829 "Ed Sheeran")
 
+More artworks here:
+
+Это простая [ссылка](https://www.facebook.com/masha.shin.3/photos_all) в тексте.
+
+* * *
+
 
 ## Timetable (Level 1, Semester 2)
 
@@ -29,8 +36,8 @@
 | --|:---------:| -----:| -----:| -----:| -----:|
 | 1 | DL seminar | Video |  | German |  |
 | 2 |    |   Speech practice | Latin | German | German |
-| 3 | DL lecture    |  Speech practice    |j | Phonetics | |
-| 4 |    |     |Speech practice | Grammar | BritLit Seminar |
-| 5 |    |    NIS| Grammar |  |  BritLit Lecture |
+| 3 | DL lecture    |  Speech practice    | | Phonetics | |
+| 4 |    |     |Speech practice | Grammar | BritLit seminar |
+| 5 |    |    NIS| Grammar |  |  BritLit lecture |
 
 
