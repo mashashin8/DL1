@@ -27,8 +27,10 @@
 
 | № | Monday    | Tuesday |Wednesday| Thursday | Friday |
 | --|:---------:| -----:| -----:| -----:| -----:|
-| 1 | DL seminar | $1600 | v | v | v |
-| 2 | -    |   $12 |v | v | v |
-| 3 | DL lecture    |    $1 |j | v | v |
+| 1 | DL seminar | Video |  | German |  |
+| 2 | -    |   Speech practice | Latin | German | German |
+| 3 | DL lecture    |  Speech practice    |j | Phonetics | |
+| 4 |    |     |Speech practice | Grammar | BritLit Seminar |
+| 5 |    |    NIS| Grammar | BritLit Lecture |
 
 
