@@ -33,10 +33,10 @@ More artworks [here](https://www.facebook.com/masha.shin.3/photos_all) .
 
 | № | Monday    | Tuesday |Wednesday| Thursday | Friday |
 | --|:---------:| -----:| -----:| -----:| -----:|
-| 1 | DL seminar | Video |  | German |  |
-| 2 |    |   Speech practice | Latin | German | German |
-| 3 | DL lecture    |  Speech practice    | | Phonetics | |
-| 4 |    |     |Speech practice | Grammar | BritLit seminar |
-| 5 |    |    NIS| Grammar |  |  BritLit lecture |
+| 1 | DL seminar | Video           |                 | German   |                 |
+| 2 |            | Speech practice | Latin           | German   | German          |
+| 3 | DL lecture |                 | Speech practice | Phonetics|                 |
+| 4 |            |                 | Speech practice | Grammar  | BritLit seminar |
+| 5 |            |                 | NIS             | Grammar  | BritLit lecture|
 
 
