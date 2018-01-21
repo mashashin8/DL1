@@ -29,7 +29,7 @@ More artworks [here](https://www.facebook.com/masha.shin.3/photos_all) .
 * * *
 
 
-## Timetable (Level 1, Semester 2)
+## Timetable (Level 1, Semester 2). Group 176-1
 
 | № | Monday    | Tuesday |Wednesday| Thursday | Friday |
 | --|:---------:| -----:| -----:| -----:| -----:|
