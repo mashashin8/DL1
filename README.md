@@ -2,7 +2,7 @@
 ## Masha Shin
 #### 20 y.o
 #### From Tashkent, Uzbekistan
-> Anything's posssible if you've got enough nerve 
+> Anything's possible if you've got enough nerve 
 
 ## HSE student
 #### Foreign Languages and Intercultural Communication
@@ -15,6 +15,8 @@
 + Cooking
 
 Here are some of my works:
+
+![Alt-текст](C:\Users\ASUS\Desktop "Lily Collins")
 
 N . Monday | Tuesday | Wednesday | Thursday | Friday
 
