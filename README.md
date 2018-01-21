@@ -2,11 +2,21 @@
 ## Masha Shin
 > Anyhing's posssible if you've got enough nerve 
 
-<p> Другая умная цитата.</p>
 
+## HSE student
+### From Tashkent, Uzbekistan
+#### 20 y.o
 
 + Drawing
 + Alternative rock
 + Cats
 
-! [pic]
+N . Monday | Tuesday | Wednesday | Thursday | Friday
+
+Item | Value | Quantity
+:——— |:——:| ——-:
+Computer | 1600 | 3
+Phone | 12 | 2
+Pipe | 1 | 1
+
+
