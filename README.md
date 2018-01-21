@@ -23,13 +23,12 @@
 ![Alt-текст](https://scontent.fhel3-1.fna.fbcdn.net/v/t1.0-9/17458389_1277326982363840_8063774914609442989_n.jpg?oh=bb1ff77d14c9623d71e4fff279bfce26&oe=5AE72829 "Ed Sheeran")
 
 
+## Timetable (Level 1, Semester 2)
 
-N . Monday | Tuesday | Wednesday | Thursday | Friday
-
-Item | Value | Quantity
-:——— |:——:| ——-:
-Computer | 1600 | 3
-Phone | 12 | 2
-Pipe | 1 | 1
+| № | Monday    | Tuesday |Wednesday| Thursday | Friday |
+| --|:---------:| -----:| -----:| -----:| -----:|
+| 1 | DL seminar | $1600 | v | v | v |
+| 2 | -    |   $12 |v | v | v |
+| 3 | DL lecture    |    $1 |j | v | v |
 
 
